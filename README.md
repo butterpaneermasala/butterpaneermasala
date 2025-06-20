@@ -32,17 +32,13 @@
 
 <table>
   <tr>
-    <td align="center" width="180">
+    <td align="center" width="250">
       <b>visitor count</b><br>
-      <img src="https://count.getloli.com/get/@butterpaneermasala?theme=booru-vp" alt="visitor badge" width="120"/>
+      <img src="https://count.getloli.com/get/@butterpaneermasala?theme=booru-vp" alt="visitor badge" width="200"/>
     </td>
     <td align="center" width="350">
       <b>github activity</b><br>
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=butterpaneermasala&days=30&bg_color=1e1e2e&color=CBA6F7&line=CBA6F7&point=45475A&area=true&hide_border=true" width="350"/>
-    </td>
-    <td align="center" width="350">
-      <b>github streak</b><br>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=butterpaneermasala&theme=tokyonight&hide_border=true" width="350"/>
     </td>
     <td align="center" width="350">
       <b>top languages</b><br>
@@ -50,3 +46,5 @@
     </td>
   </tr>
 </table>
+
+---
