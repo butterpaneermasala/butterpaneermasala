@@ -32,15 +32,15 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="300">
-      <b>🐾 visitor count</b><br><br>
-      <img src="https://count.getloli.com/get/@butterpaneermasala?theme=capoo-2" alt="visitor badge" width="160"/>
-    </td>
     <td align="center" width="420">
       <b>github activity</b><br><br>
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=butterpaneermasala&days=30&bg_color=1e1e2e&color=CBA6F7&line=CBA6F7&point=45475A&area=true&hide_border=true" width="380"/>
     </td>
     <td align="center" width="370">
+      <b>🐾 visitor count</b><br><br>
+      <img src="https://count.getloli.com/get/@butterpaneermasala?theme=capoo-2" alt="visitor badge" width="160"/>
+    </td>
+    <td align="center" width="300">
       <b>top languages</b><br><br>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=butterpaneermasala&layout=compact&theme=radical&hide_border=true" width="340"/>
     </td>
