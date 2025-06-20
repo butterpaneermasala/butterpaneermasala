@@ -23,29 +23,27 @@
 
 <!-- Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-Full%20Stack-informational?style=flat&logo=typescript&color=6C63FF"/>
-  <img src="https://img.shields.io/badge/Focus-Web%20%26%20Blockchain-success?style=flat&logo=ethereum&color=F7C873"/>
-  <img src="https://img.shields.io/badge/OS-Linux-important?style=flat&logo=linux&color=2D2A2E"/>
+  <img src="https://img.shields.io/badge/Code-Full%20Stack-7aa2f7?style=flat&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Focus-Web%20%26%20Blockchain-f9e2af?style=flat&logo=ethereum&logoColor=black"/>
+  <img src="https://img.shields.io/badge/OS-Linux-89dceb?style=flat&logo=linux&logoColor=black"/>
 </p>
 
 ---
 
+<div align="center">
+  <b>github activity</b><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=butterpaneermasala&days=30&bg_color=1e1e2e&color=CBA6F7&line=CBA6F7&point=45475A&area=true&hide_border=true"/>
+</div>
+
 <table align="center">
   <tr>
-    <td align="center" width="420">
-      <b>github activity</b><br><br>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=butterpaneermasala&days=30&bg_color=1e1e2e&color=CBA6F7&line=CBA6F7&point=45475A&area=true&hide_border=true" width="380"/>
+    <td align="center">
+      <b>top languages</b><br>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=butterpaneermasala&layout=compact&theme=radical&hide_border=true"/>
     </td>
-    <td align="center" width="370">
-      <b>🐾 visitor count</b><br><br>
-      <img src="https://count.getloli.com/get/@butterpaneermasala?theme=capoo-2" alt="visitor badge" width="160"/>
-    </td>
-    <td align="center" width="300">
-      <b>top languages</b><br><br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=butterpaneermasala&layout=compact&theme=radical&hide_border=true" width="340"/>
+    <td align="center">
+      <b>visitor count</b><br>
+      <img src="https://count.getloli.com/get/@butterpaneermasala?theme=booru-vp" alt="visitor badge"/>
     </td>
   </tr>
 </table>
-
-
----
