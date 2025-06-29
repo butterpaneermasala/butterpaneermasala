@@ -43,7 +43,7 @@
     </td>
     <td align="center">
       <b>visitor count</b><br>
-      <img src="https://count.getloli.com/get/@butterpaneermasala?theme=booru-vp" alt="visitor badge"/>
+      <img src="https://count.getloli.com/get/@butterpaneermasala?theme=capoo-2" alt="visitor badge"/>
     </td>
   </tr>
 </table>
